@@ -1,6 +1,8 @@
 #proyecto_react_vladimir
 # ReactVladimir0
 
+# Siempre que se cargue un nuevo proyecto realizar el npm install
+
 /*
 git init
 git add .
